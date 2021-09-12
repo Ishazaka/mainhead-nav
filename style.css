@@ -1,0 +1,74 @@
+body{
+background-image: url(
+"https://cdn.pixabay.com/photo/2018/11/17/07/10/desktop-3820634__340.jpg");
+background-position: center;
+background-size: cover;
+height: 90vh;
+}
+.brand{
+ height:15vh ;
+ margin-left: 20px;
+}
+header{
+display: inline;
+ margin-right: 20px;
+}
+ul{
+ width: auto;
+float:right;
+  margin-top: 35px;
+  font-size: 25px;
+}
+li{
+display: inline;
+padding: 10px 20px;
+}
+a{
+ text-decoration: none;
+}
+#home{
+  background: rgb(19, 172, 146);
+  font-weight: 20px;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+  .login:hover{
+color: rgb(19, 172, 146);
+}
+a.log:hover{
+  background:black;
+}
+#home:hover{
+  color: white;
+}
+a.login{
+color: black;
+
+}
+.log{
+  color: #fff;
+letter-spacing: 2px;
+font: century;
+font-weight: 800;
+font-size: 20px;
+text-transform: uppercase;
+padding: 10px 30px;
+border-radius: 10px;
+background: orangered;
+}
+.headline{
+font-size: 50px;
+margin-top: 14%;
+margin-left: 35%;
+background: white;
+border: 3px solid orangered;
+border-radius: 40px;
+padding: 10px 10px;
+text-align: center;
+margin-right: 30%;
+}
+.headline:hover{
+background: black;
+color:#fff;
+
+}
